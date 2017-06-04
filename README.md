@@ -34,7 +34,7 @@ Este es un espacio para ir documentando elementos de formación que nos parezcan
 * [hackandbeers](http://hackandbeers.es/)
 * [breakingcode](https://breakingcode.wordpress.com/)
 * [Mundo Hacker](http://www.mundohackerday.com/)
-
+* [CONNECT](https://www.eventbrite.es/e/registro-keepcoding-connect-2017-la-cita-de-la-elite-del-desarrollo-34502805821?aff=Whatsnews)
 ## FORMACIÓN
 
 * [SECURIZAME](https://www.securizame.com/)
@@ -46,3 +46,9 @@ Este es un espacio para ir documentando elementos de formación que nos parezcan
 * [THE HACKER WAY](https://thehackerway.es/)
 * [OFENSIVE SECURITY](https://www.offensive-security.com/)
 
+## FORMACIÓN EN DESARROLLO
+
+* [PLATZI](https://platzi.com/)
+* [KEEPCPDING](http://keepcoding.es/courses/)
+
+![KEEPCODING](https://www.adigital.org/media/keep-coding.jpg)
