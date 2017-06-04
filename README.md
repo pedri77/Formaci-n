@@ -35,3 +35,14 @@ Este es un espacio para ir documentando elementos de formación que nos parezcan
 * [breakingcode](https://breakingcode.wordpress.com/)
 * [Mundo Hacker](http://www.mundohackerday.com/)
 
+## FORMACIÓN
+
+* [SECURIZAME](https://www.securizame.com/)
+* [EC-COUNCIL](https://www.eccouncil.org/)
+* [SANS](https://www.sans.org/)
+
+## FORMACIÓN Y PRÁCTICA
+
+* [THE HACKER WAY](https://thehackerway.es/)
+* [OFENSIVE SECURITY](https://www.offensive-security.com/)
+
