@@ -4,11 +4,11 @@ Este es un espacio para ir documentando elementos de formación que nos parezcan
 
 ## A nivel de Seguridad informatica 
 
-![Hacker](http://www.abc.es/media/tecnologia/2016/03/10/hacker-error-ortografia_xoptimizadax--620x349.jpg)
+![Hacker](https://cdn.pixabay.com/photo/2017/05/10/12/41/hacker-2300772_960_720.jpg)
 
 ## A nivel de Desarrollo
 
-![Desarrollo](https://img.wonderhowto.com/img/50/81/63545703386404/0/advice-from-real-hacker-protect-yourself-from-being-hacked.1280x600.jpg)
+![Desarrollo](https://cdn.pixabay.com/photo/2017/03/27/12/19/close-up-2178341_960_720.jpg)
 
 *Algunos lugares de interés para trastear:
 
