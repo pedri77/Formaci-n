@@ -27,11 +27,11 @@ Este es un espacio para ir documentando elementos de formación que nos parezcan
 
 ##CONGRESOS
 
--[EASTMADH4CK](http://eastmadhack.org/)
--[rooted](http://www.rootedcon.es/)
--[navaja negra](https://www.navajanegra.com/)
--[CONpilar](http://conpilar.es/)
--[hackandbeers](http://hackandbeers.es/)
--[breakingcode](https://breakingcode.wordpress.com/)
--[Mundo Hacker](http://www.mundohackerday.com/)
+*[EASTMADH4CK](http://eastmadhack.org/)
+*[rooted](http://www.rootedcon.es/)
+*[navaja negra](https://www.navajanegra.com/)
+*[CONpilar](http://conpilar.es/)
+*[hackandbeers](http://hackandbeers.es/)
+*[breakingcode](https://breakingcode.wordpress.com/)
+*[Mundo Hacker](http://www.mundohackerday.com/)
 
